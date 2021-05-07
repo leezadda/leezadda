@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leezadda
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Flask
+- 💞️ I’m looking to collaborate on Web Applications
+- 📫 How to reach me: leofeb12@yahoo.com
